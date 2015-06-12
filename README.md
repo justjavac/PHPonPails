@@ -10,7 +10,7 @@
 
 > Swift开源了，于是，这货就出来了 SwiftOnSails，虽然我是第一次看这个名字，但是总有一种很熟悉的感觉。
 
-
+![SwiftOnSails](http://ww4.sinaimg.cn/large/cebd4adcjw1eszwzieu4rj20ft08smxk.jpg)
 
 ## License
 
