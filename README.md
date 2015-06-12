@@ -12,10 +12,11 @@
 
 ## 汇总
 
-- [Java on Jails](https://github.com/richdyang/jails)
 - [Swift on Sails](https://github.com/SwiftOnSails)
 - [Node.js on Nails](https://github.com/ratdaddy/nails)
 - [Hashkell on Hails](https://github.com/scslab/hails)
+- [Java on Jails](https://github.com/richdyang/jails)
+- [Javascript on Jails](https://github.com/melkior/jails.old)
 
 ## License
 
