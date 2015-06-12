@@ -17,6 +17,8 @@
 - [Java on Jails](https://github.com/richdyang/jails)
 - [Javascript on Jails](https://github.com/melkior/jails.old)
 - [Node.js on Nails](https://github.com/ratdaddy/nails)
+- [Python on Pails](https://github.com/far-rel/Pails)
+- [PHP on Pails](https://github.com/justjavac/PHPonPails)
 
 ## License
 
