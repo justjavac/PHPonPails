@@ -15,6 +15,7 @@
 - [Java on Jails](https://github.com/richdyang/jails)
 - [Swift on Sails](https://github.com/SwiftOnSails)
 - [Node.js on Nails](https://github.com/ratdaddy/nails)
+- [Hashkell on Hails](https://github.com/scslab/hails)
 
 ## License
 
