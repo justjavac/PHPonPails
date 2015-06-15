@@ -14,7 +14,7 @@
 
 - [ASP.NET on Nails](https://github.com/brilliantfantastic/nails)
 - [Groovy on Grails](https://github.com/grails/grails-core)
-- [Hashkell on Hails](https://github.com/scslab/hails)
+- [Haskell on Hails](https://github.com/scslab/hails)
 - [Java on Jails](https://github.com/richdyang/jails)
 - [Javascript on Jails](https://github.com/melkior/jails.old)
 - [Node.js on Nails](https://github.com/ratdaddy/nails)
