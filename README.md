@@ -21,6 +21,7 @@
 - [Python on Pails](https://github.com/far-rel/Pails)
 - [PHP on Pails](https://github.com/justjavac/PHPonPails)
 - [Swift on Sails](https://github.com/SwiftOnSails)
+- [Koa2 on Kails](https://github.com/embbnux/kails)
 
 ## License
 
